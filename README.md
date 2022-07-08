@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://www.furkanaydin.net/"><img alt="Website" src="https://img.shields.io/badge/Website-furkanaydin.net-blue"></a>
-<a href="https://www.linkedin.com/in/furkanaydin28/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mrfurkanaydin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:aydnfurkan007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/furkan-aydin-9a0945192/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Furkan%20Ayd%C4%B1n-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/mrfurkanaydin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Furkan%20Ayd%C4%B1n-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:aydnfurkan007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aydnfurkan007%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
