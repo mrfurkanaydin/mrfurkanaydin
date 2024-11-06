@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering at University of Beykent.
+- 🎓 &nbsp; I graduated from Beykent University with a degree in Software Engineering.
 - 🌱 &nbsp; Learning more about Web Tecnologies, Mobile App and Artificial Intelligence.
 - ✍️ &nbsp; Blog Writing as hobbies/side hustles and play voleyball.
 
@@ -20,6 +20,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=Nextjs)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
@@ -41,6 +42,5 @@
 <p align="center">
 <a href="https://www.furkanaydin.net/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-furkanaydin.net-blue"></a>
 <a href="https://www.linkedin.com/in/mrfurkanaydin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Furkan%20Ayd%C4%B1n-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mrfurkanaydin/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Furkan%20Ayd%C4%B1n-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:aydnfurkan007@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-aydnfurkan007%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
