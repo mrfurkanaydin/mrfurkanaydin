@@ -30,12 +30,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrfurkanaydin&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfurkanaydin&theme=buefy&layout=compact" />
-</a>
-
-<br/>
+[![roadmap.sh](https://roadmap.sh/card/tall/67ce7ac081e9e8dd79561a15?variant=dark&roadmaps=golang)](https://roadmap.sh)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
