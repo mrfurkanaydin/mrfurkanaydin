@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfurkanaydin&" alt="mrfurkanaydin" /></p>
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67ce7ac081e9e8dd79561a15?variant=dark)](https://roadmap.sh)
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
